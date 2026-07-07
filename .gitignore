@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+.vs/
+*.code-workspace
+
+wandb/
+*.log
+db_log.txt
+incoming_json.txt
